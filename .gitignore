@@ -1,0 +1,25 @@
+# Environnements virtuels
+venv/
+ENV/
+env/
+# Caches de compilation CPython
+__pycache__/
+*.py[cod]
+*$py.class
+# Données temporaires et traces d'exécution
+*.log
+.env
+alerts_history.json
+.pytest_cache/1~# Environnements virtuels
+venv/
+ENV/
+env/
+# Caches de compilation CPython
+__pycache__/
+*.py[cod]
+*$py.class
+# Données temporaires et traces d'exécution
+*.log
+.env
+alerts_history.json
+.pytest_cache/
